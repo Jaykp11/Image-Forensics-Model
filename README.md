@@ -21,7 +21,7 @@ This project detects fake/tampered complaint images using:
 - Scikit-learn
 
 ## Accuracy
-Final Test Accuracy: XX%
+Final Test Accuracy: 90.99%
 
 ## Run
 python train.py
