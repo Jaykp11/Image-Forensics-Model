@@ -1,3 +1,10 @@
 .DS_Store
 secrets.txt
+.ipynb_checkpoints/
+.vscode/
+__pycache__/
 
+dataset/real/
+dataset/fake/
+
+*.pyc
